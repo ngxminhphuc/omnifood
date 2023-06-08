@@ -114,6 +114,7 @@
   /* MOBILE NAVIGATION */
   .btn-mobile-nav {
     display: block;
+    z-index: 1111;
   }
 
   .nav-open .icon-mobile-nav[name="menu-outline"] {
